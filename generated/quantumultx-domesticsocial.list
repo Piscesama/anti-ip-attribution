@@ -119,10 +119,6 @@ DOMAIN-SUFFIX,douyu.com,DomesticSocial
 DOMAIN,bbs-api.mihoyo.com,DomesticSocial
 DOMAIN,bbs-api.miyoushe.com,DomesticSocial
 DOMAIN-SUFFIX,douban.com,DomesticSocial
-IP-CIDR,49.233.242.15/32,DomesticSocial
-IP-CIDR,81.70.124.99/32,DomesticSocial
-IP-CIDR,81.70.125.19/32,DomesticSocial
-IP-CIDR,140.143.177.206/32,DomesticSocial
 DOMAIN,api.xiaoheihe.cn,DomesticSocial
 DOMAIN,y.qq.com,DIRECT
 DOMAIN-SUFFIX,y.qq.com,DomesticSocial
